@@ -5,18 +5,18 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "Resource Consents"
-    text: "Lorem ipsum"
+    title: "Services"
+    text: "Planning and Consenting"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Resource Consents"
+        desc: "Fulfil your vision swiftly and painlessly with our professional resource consent application serivces."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Land Use and Subdivision Applications"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Land Use and Subdivisions"
+        desc: "Want to build a house or subdivide your property? Let us help you with the paperwork to maximise your chances of success."
         icon: fas fa-house       
       - title: "Planning Consultation"
-        desc: "Your description here, full **Markdown** support"
+        desc: "We are here to help you with any queries or plans you have regarding local council and planning processes."
         icon: fab fa-markdown
 
 portfolio:
