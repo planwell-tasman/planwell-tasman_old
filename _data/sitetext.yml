@@ -1,21 +1,21 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to Planwell Tasman!
+    text: Professional Planning Services for Nelson Bays
+    button: Services
     buttonlink: "#services"
 
 services:
-    title: "Services"
+    title: "Resource Consents"
     text: "Lorem ipsum"
     section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Land Use and Subdivision Applications"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-house       
+      - title: "Planning Consultation"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
