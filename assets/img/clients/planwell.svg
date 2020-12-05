@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (0.92.5+68)"
+   sodipodi:docname="planwell.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-718.51891"
+     inkscape:cy="-46.459331"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g885">
+      <rect
+         y="57.134541"
+         x="-172.13869"
+         height="159.31693"
+         width="185.55745"
+         id="rect828"
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.44493946;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path826"
+         d="m -171.64497,209.36461 c 4.09876,-10.03034 8.66151,-45.27003 8.66151,-45.27003 0,0 30.61571,-51.88764 31.39642,-52.57152 0.78071,-0.68389 53.674158,-49.239813 53.674158,-49.239813 l 15.809483,1.823697 38.255043,1.823697 28.3009194,8.89052 8.3926906,7.978672 -4.293929,0.455926 -16.1998449,-8.434598 -20.4937741,-4.103316 -29.081631,0.455924 -18.346804,31.002841 4.879465,51.51943 27.129855,31.91469 17.956444,6.38294 26.54431152,-19.60474 8.78305928,24.39195 -0.3903603,19.8327 H -170.67781 Z"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.20896775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g881"
+       transform="translate(0,0.32219965)">
+      <text
+         id="text861"
+         y="120.97868"
+         x="-523.38196"
+         style="font-style:normal;font-weight:normal;font-size:81.60451508px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2.0401125"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:#666666;stroke-width:2.0401125"
+           y="120.97868"
+           x="-523.38196"
+           id="tspan859"
+           sodipodi:role="line">Planwell</tspan></text>
+      <text
+         id="text865"
+         y="210.71049"
+         x="-530.26672"
+         style="font-style:normal;font-weight:normal;font-size:70.82568359px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.77064192"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';fill:#1a1a1a;stroke-width:1.77064192"
+           y="210.71049"
+           x="-530.26672"
+           id="tspan863"
+           sodipodi:role="line">TASMAN</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot867"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion869"><rect
+           id="rect871"
+           width="18.182745"
+           height="151.52289"
+           x="-680.84283"
+           y="-47.236961" /></flowRegion><flowPara
+         id="flowPara873"></flowPara></flowRoot>  </g>
+</svg>
