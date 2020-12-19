@@ -20,9 +20,9 @@ title      : Planwell Tasman
 email      : planwell.tasman@gmail.com #this is also the email contact forms will go to
 description: "Site description"
 author     : Ina Holst
- logo:     #optional, defaults to site title
-   path: assets\img\clients\planwell_logo.png
-   height: 60 #height in px, defaults to 52px
+#logo:     #optional, defaults to site title
+  #path: assets\img\clients\planwell_logo.png
+  #height: 60 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
